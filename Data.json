@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "name": "Chaz Geoffard M. Balendez",
+      "age": 21,
+      "quote": "The darker the night the brighter the stars -Braum"
+    }
+    ],
+  "section": [
+    {
+      "section": "BSIT - 3B",
+      "code": "T230",
+      "email": "2001101798@student.buksu.edu.ph"
+    }
+  ]
+}
